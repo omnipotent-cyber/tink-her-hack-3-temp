@@ -21,8 +21,7 @@ Whether it's school level or college level,it provide colleges ,types of job ava
 It consist of informations regarding entrance examinations in which  institution you are intrested in higher level education fields , oppurtunities and job vacancy depending upon the field of intrest.]
 
 ### The Problem statement
-[Lack of information about the education field.
-Difficulty to find a job]
+[in todays generation many students doesnt know what they are studying and what to do after their priliminary studys,this is due to the lack of knowledge in education feild]
 
 ### The Solution
 [a website is created solely for students struggling with future feild of study or job oppurtunities.This website is a sample ,which contains only basic function with limited resources, it can be expanded in future if needed.this website will first ask your educational level and will give future educational or employment in the feild of intrest.]
@@ -50,14 +49,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](![Screenshot 2025-01-26 101258](https://github.com/user-attachments/assets/b0fbc209-e69b-4573-babd-9216194a5fad)
+*homepage of the website,this page have the main classifications.*
+
+![Screenshot2]()*page displaying after the user selects undergraduate ,and shows multiple ways of branches *
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]()
+*the page showing the scope of future studies of the selected branch of education and job oppurtunities after postgraduate*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
