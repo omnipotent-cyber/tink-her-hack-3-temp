@@ -1,39 +1,40 @@
 
 
-# [Project Name] 🎯
+# [EDUCOM] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [OMNIPOTENT]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [IRINE ROSE ANTONY] - [GOVERNMENT COLLEG OF ENGINEERING,THRISSUR]
+- Member 2: [ANUSHKA GAYATHRI T R] - [GOVERNMENT COLLEGE OF ENGINEERING,THRISSUR]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[It is a website that guides us the future oppurtunities based on our qualification and interests.
+Whether it's school level or college level,it provide colleges ,types of job available and job vacancies.
+It consist of informations regarding entrance examinations in which  institution you are intrested in higher level education fields , oppurtunities and job vacancy depending upon the field of intrest.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Lack of information about the education field.
+Difficulty to find a job]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[a website is created solely for students struggling with future feild of study or job oppurtunities.This website is a sample ,which contains only basic function with limited resources, it can be expanded in future if needed.this website will first ask your educational level and will give future educational or employment in the feild of intrest.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html]
+- [header, section, footer, buttons,,css,javascript]
 
 For Hardware:
-- [List main components]
+- [cpu,gpu,ram]
 - [List specifications]
 - [List tools required]
 
