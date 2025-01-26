@@ -49,13 +49,15 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](![Screenshot 2025-01-26 101258](https://github.com/user-attachments/assets/b0fbc209-e69b-4573-babd-9216194a5fad)
+![screenshot-1](https://github.com/user-attachments/assets/6076ba8f-e4ab-4502-8a29-dc019bf50bb3)
 *homepage of the website,this page have the main classifications.*
 
-![Screenshot2]()*page displaying after the user selects undergraduate ,and shows multiple ways of branches *
-*Add caption explaining what this shows*
+![screenshot2](https://github.com/user-attachments/assets/d42d5f2d-d085-4c46-8e8c-12b1074c4504)
 
-![Screenshot3]()
+*page displaying after the user selects undergraduate ,and shows multiple ways of branches *
+*Add caption explaining what this shows*
+![screenshot3](https://github.com/user-attachments/assets/114265d8-11fd-4682-a511-71117e187fd3)
+
 *the page showing the scope of future studies of the selected branch of education and job oppurtunities after postgraduate*
 
 # Diagrams
